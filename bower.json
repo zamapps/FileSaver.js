@@ -1,6 +1,6 @@
 {
   "name": "file-saver",
-  "main": "dist/FileSaver.min.js",
+  "main": "src/FileSaver.js",
   "version": "2.0.0-rc.3",
   "homepage": "https://github.com/eligrey/FileSaver.js",
   "authors": [
